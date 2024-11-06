@@ -1,3 +1,3 @@
 # prog1_gang10_oevelser
 
-Oevelser
+Oevelser fra programmering på IT-Teknolog 1. semester
