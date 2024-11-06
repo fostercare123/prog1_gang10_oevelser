@@ -2,7 +2,7 @@ from hcsr04 import HCSR04
 from time import sleep, ticks_ms
 
 # Creates an instance of the HCSR04 class
-sensor = HCSR04(20,34)
+sensor = HCSR04(25,34)
 
 # Starttiden?
 start_time = ticks_ms()
